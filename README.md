@@ -23,4 +23,4 @@
 - Data Analytics / Data Science.
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigobbis&layout=compact&hide_border=true)
+![Giovanni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannigobbis&show_icons=true&theme=radical)

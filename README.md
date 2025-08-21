@@ -14,7 +14,7 @@
 - **Ferramentas:** Git & GitHub, Jupyter Notebook, Power BI  
 
 ## 📌 Projetos em Destaque
-- [📊 Análise de Vendas (Pandas/Matplotlib)](https://github.com/GiovanniGobbis/analise-vendas) – Limpeza, exploração e gráficos  
+- [📊 Análise de Vendas (Pandas/Matplotlib)] (https://giovannigobbis.github.io/analise-dados-filmes/) Limpeza, exploração e gráficos  
 
 ## 🗺️ Interesses
 - Análise Exploratória de Dados  

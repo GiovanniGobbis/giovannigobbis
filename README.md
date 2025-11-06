@@ -16,6 +16,12 @@
 ## 📌 Projetos em Destaque
 - [📊 Análise de Vendas (Pandas/Matplotlib)] (https://giovannigobbis.github.io/analise-dados-filmes/) Limpeza, exploração e gráficos  
 
+## 📕 Biblioteca Solidária 
+Desenvolvido com foco na simplicidade e utilidade social, o projeto busca promover a leitura e a solidariedade através da tecnologia.
+(
+
+
+
 ## 🗺️ Interesses
 - Análise Exploratória de Dados  
 - Dashboards interativos  
